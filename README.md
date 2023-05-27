@@ -53,8 +53,7 @@ __Key Findings__
 - Check the case status by filtering the employer's name.
 - Aggregate wages based on the employer's name and job title.
 - Analyze the details of the top 5 employers, including their presence in the job market and the states they operate in.
-    ![Top results part 1](Top_results_part_1.png)
-    ![Top results part 2](Top_results_part_2.png)
+    ![Top results](Top_results.png)
 - Explore the details of the bottom 5 employers, including their presence in the job market and the states they operate in.
 
 __Project Outputs__

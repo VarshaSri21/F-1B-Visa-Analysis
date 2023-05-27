@@ -14,18 +14,27 @@ The dataset used for this project is derived from the company's sales database. 
 
 CASE_NUMBER: A unique case number is assigned by the (USCIS) to each H-1B visa application that is submitted by an employer on behalf of a foreign worker.
 
-CASE_STATUS: Analyze the current status of the H-1B visa application, where the values can be
-    certified, denied, withdrawn, or pending.
-    RECEIVED_DATE: H-1B visa application received date by USCIS.
-    DECISION_DATE: The decision date for the H1-B visa application.
-    JOB_TITLE: The title of the job offered by the U.S. employer to the foreign worker.
-    SOC_TITLE: Standard Occupational Code (SOC) is the occupational title given by foreign workers to the employees.
-    BEGIN_DATE: Requested start date of the employment period.
-    END_DATE: Requested end date of the employment period.
-    EMPLOYER_NAME: Organizational name of the employer who submits the application.
-    EMPLOYER_STATE: State where the employer is located.
-    WAGE_RATE_OF_PAY: Wage provided by the employer to the foreign workers.
-    PREVAILING_WAGE: The average wage paid to workers in similar occupations in the same geographical area.
+CASE_STATUS: Analyze the current status of the H-1B visa application, where the values can be certified, denied, withdrawn, or pending.
+
+RECEIVED_DATE: H-1B visa application received date by USCIS.
+
+DECISION_DATE: The decision date for the H1-B visa application.
+
+JOB_TITLE: The title of the job offered by the U.S. employer to the foreign worker.
+
+SOC_TITLE: Standard Occupational Code (SOC) is the occupational title given by foreign workers to the employees.
+
+BEGIN_DATE: Requested start date of the employment period.
+
+END_DATE: Requested end date of the employment period.
+
+EMPLOYER_NAME: Organizational name of the employer who submits the application.
+
+EMPLOYER_STATE: State where the employer is located.
+
+WAGE_RATE_OF_PAY: Wage provided by the employer to the foreign workers.
+
+PREVAILING_WAGE: The average wage paid to workers in similar occupations in the same geographical area.
     
 __Project Structure__
 
@@ -36,6 +45,7 @@ The project is structured as follows:
 - `H-1B Visa Analysis Report.pdf`: This filr contains the documentation of the tableau project.
 - `H-1B Visa Analysis.pptx`: This powerpoint contains the presentation for this project.
     
+
 __Key Findings__
 
 - The total number of H-1B visa applications, the number of employees associated with the visas, and the count of states involved.

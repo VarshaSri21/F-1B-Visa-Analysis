@@ -54,7 +54,7 @@ __Key Findings__
 - Aggregate wages based on the employer's name and job title.
 - Analyze the details of the top 5 employers, including their presence in the job market and the states they operate in.
     ![Top results part 1](Top\ results\ part\ 1.png)
-    ![Top results part 2](Top results part 2.png)
+    ![Top results part 2](Top_results_part_2.png)
 - Explore the details of the bottom 5 employers, including their presence in the job market and the states they operate in.
 
 __Project Outputs__

@@ -36,6 +36,7 @@ The dataset used for this project is derived from the company's sales database. 
 
 `PREVAILING_WAGE`: The average wage paid to workers in similar occupations in the same geographical area.
     
+
 __Project Structure__
 
 The project is structured as follows:

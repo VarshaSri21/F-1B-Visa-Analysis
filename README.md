@@ -12,29 +12,29 @@ __Data Source__
 
 The dataset used for this project is derived from the company's sales database. It contains the following key fields:  
 
-CASE_NUMBER: A unique case number is assigned by the (USCIS) to each H-1B visa application that is submitted by an employer on behalf of a foreign worker.
+`CASE_NUMBER`: A unique case number is assigned by the (USCIS) to each H-1B visa application that is submitted by an employer on behalf of a foreign worker.
 
-CASE_STATUS: Analyze the current status of the H-1B visa application, where the values can be certified, denied, withdrawn, or pending.
+`CASE_STATUS`: Analyze the current status of the H-1B visa application, where the values can be certified, denied, withdrawn, or pending.
 
-RECEIVED_DATE: H-1B visa application received date by USCIS.
+`RECEIVED_DATE`: H-1B visa application received date by USCIS.
 
-DECISION_DATE: The decision date for the H1-B visa application.
+`DECISION_DATE`: The decision date for the H1-B visa application.
 
-JOB_TITLE: The title of the job offered by the U.S. employer to the foreign worker.
+`JOB_TITLE`: The title of the job offered by the U.S. employer to the foreign worker.
 
-SOC_TITLE: Standard Occupational Code (SOC) is the occupational title given by foreign workers to the employees.
+`SOC_TITLE`: Standard Occupational Code (SOC) is the occupational title given by foreign workers to the employees.
 
-BEGIN_DATE: Requested start date of the employment period.
+`BEGIN_DATE`: Requested start date of the employment period.
 
-END_DATE: Requested end date of the employment period.
+`END_DATE`: Requested end date of the employment period.
 
-EMPLOYER_NAME: Organizational name of the employer who submits the application.
+`EMPLOYER_NAME`: Organizational name of the employer who submits the application.
 
-EMPLOYER_STATE: State where the employer is located.
+`EMPLOYER_STATE`: State where the employer is located.
 
-WAGE_RATE_OF_PAY: Wage provided by the employer to the foreign workers.
+`WAGE_RATE_OF_PAY`: Wage provided by the employer to the foreign workers.
 
-PREVAILING_WAGE: The average wage paid to workers in similar occupations in the same geographical area.
+`PREVAILING_WAGE`: The average wage paid to workers in similar occupations in the same geographical area.
     
 __Project Structure__
 
@@ -59,11 +59,11 @@ __Key Findings__
 __Project Outputs__
 
 The Tableau workbook (H-1B_Visa_Analysis using Tableau.twbx) includes the following key visualizations and dashboards:
-- H-1B Visa Statistics Dashboard: Provides an overview of the number of employers, states, and applications received.
-- Case Status Dashboard: Visualizes the case status of the visa year-wise using text charts, bar charts, and allows filtering by the employer's name.
-- Employer and Job Details Dashboard: Provides aggregated information on wages and the number of applications for each company, categorized by job role.
-- Top Results Dashboard: Displays the top 5 employers' names, job markets, and states with the highest H-1B Visa numbers.
-- Bottom Results Dashboard: Visualizes the bottom 5 employers' names, job markets, and states with the lowest H-1B Visa numbers.
+- `H-1B Visa Statistics Dashboard`: Provides an overview of the number of employers, states, and applications received.
+- `Case Status Dashboard`: Visualizes the case status of the visa year-wise using text charts, bar charts, and allows filtering by the employer's name.
+- `Employer and Job Details Dashboard`: Provides aggregated information on wages and the number of applications for each company, categorized by job role.
+- `Top Results Dashboard`: Displays the top 5 employers' names, job markets, and states with the highest H-1B Visa numbers.
+- `Bottom Results Dashboard`: Visualizes the bottom 5 employers' names, job markets, and states with the lowest H-1B Visa numbers.
 
 __Technical Requirements__
 

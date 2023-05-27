@@ -13,7 +13,7 @@ __Data Source__
 The dataset used for this project is derived from the company's sales database. It contains the following key fields:  
 
 CASE_NUMBER: A unique case number is assigned by the (USCIS) to each H-1B visa application that is submitted by an employer on behalf of a foreign worker.
-    CASE_STATUS: Analyze the current status of the H-1B visa application, where the values can be
+CASE_STATUS: Analyze the current status of the H-1B visa application, where the values can be
     certified, denied, withdrawn, or pending.
     RECEIVED_DATE: H-1B visa application received date by USCIS.
     DECISION_DATE: The decision date for the H1-B visa application.
